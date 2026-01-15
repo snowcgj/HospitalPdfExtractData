@@ -1,0 +1,6 @@
+*.txt
+data/*
+model/
+model_weights/*
+worklog.md
+image.png
