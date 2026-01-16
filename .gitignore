@@ -9,3 +9,8 @@ image.png
 YiKouQiMiSan/out_stage01_raw/*
 YiKouQiMiSan/out_stage02_parsed/*
 YiKouQiMiSan/out_stage03_csv/*
+
+
+*.json
+*.log
+*.png
